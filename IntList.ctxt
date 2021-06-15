@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=IntList
+comment1.params=
+comment1.target=IntList()
+comment10.params=
+comment10.target=int\ length()
+comment11.params=node
+comment11.target=IntNode\ predecessor(IntNode)
+comment2.params=node
+comment2.target=IntList(IntNode)
+comment3.params=
+comment3.target=boolean\ empty()
+comment4.params=node
+comment4.target=IntNode\ nextElement(IntNode)
+comment5.params=node
+comment5.target=int\ getValueOfNode(IntNode)
+comment6.params=node
+comment6.target=void\ addToHead(IntNode)
+comment7.params=node
+comment7.target=void\ addToEnd(IntNode)
+comment8.params=num
+comment8.target=void\ remove(int)
+comment9.params=
+comment9.target=void\ printList()
+numComments=12
